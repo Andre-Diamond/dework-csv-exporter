@@ -11,8 +11,8 @@ const loaded = ref(false)
 
 let ACE = ref({
   ACEAMainProject: { id: '65345970-fcb3-4962-be04-c1a3276157bd', name: '', slug: '', tasks: [] },
-  ACEDeworkPerformance: { id: 'ebe3b549-07c7-4d90-8ebe-357b7fbda528', name: '', slug: '', tasks: [] },
-  ACEDeworkcsvExport: { id: '1ae5c92e-c40b-4854-8e87-1107de83d249', name: '', slug: '', tasks: [] },
+  ACEDeworkPerformance: { id: 'd815594d-0286-448f-97fe-b157ddb83c69', name: '', slug: '', tasks: [] },
+  ACEDeworkcsvExport: { id: '3ace81a8-6658-4c41-a480-a16c7f0dc258', name: '', slug: '', tasks: [] },
 });
 
 let ACESlug = ref()
